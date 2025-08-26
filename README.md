@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/alpiy/alpiy/blob/output/github-snake-dark.svg)
 
-<details open>
+<details>
   <summary>🌱 </summary>
 <div>
 <samp>
